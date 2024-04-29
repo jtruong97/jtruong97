@@ -1,10 +1,15 @@
 ### Hi there 👋
-### Welcome to my GitHub! 
 <!--
 **jtruong97/jtruong97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+I grew up in San Francisco, CA but recently relocated to Sacramento, CA. I have a background in health care working as a medical assistant in primary care, pediatrics, urology, and obstetrics and gynecology. As much as I loved working in healthcare, I realized it wasn't for me. I started my journey as a software developer at App Academy which fostered my growth and interest in web development. 
 
-🔭 I’m currently working on Amazonian, a full-stack clone of 'Amazon' featuring my favorite house plants 🌱
+I’m currently working on [Amazonian](https://amazonian-blt9.onrender.com/), a full-stack clone of 'Amazon' featuring my favorite house plants 🌱.
+You can also check out my [portfolio](https://jtruong97.github.io/) to see what else I have been working on! 
+
+I love to travel to learn about other cultures and try new cuisines. I am a huge foodie and always have a running list of new restaurants to try with my friends and family. To unwind at home, I enjoy binge-watching TV shows, playing cozy games on my Switch, and experimenting with new recipes I find on TikTok.
+
+
 ### 🔗 Let's connect!
   <a href='mailto:jas.truongg@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
   <a href='https://www.linkedin.com/in/jas-truong/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
