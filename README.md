@@ -1,18 +1,19 @@
-![Untitled design](https://github.com/jtruong97/jtruong97/assets/103168647/17667e03-cd10-47b1-9723-e70defd00798)
+![Github banner](https://github.com/jtruong97/jtruong97/assets/103168647/50fad09c-c9dc-419d-adc6-dad3b09ea511)
 
-### Hi there 👋
+
+### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />
 <!--
 **jtruong97/jtruong97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 I grew up in San Francisco, CA but recently relocated to Sacramento, CA. I have a background in health care working as a medical assistant in primary care, pediatrics, urology, and obstetrics and gynecology. As much as I loved working in healthcare, I realized it wasn't for me. I started my journey as a software developer at App Academy which fostered my growth and interest in web development. 
 
-I’m currently working on [Amazonian](https://amazonian-blt9.onrender.com/), a full-stack clone of 'Amazon' featuring my favorite house plants 🌱.
+I’m currently working on [Amazonian](https://amazonian-blt9.onrender.com/), a full-stack clone of 'Amazon' featuring my favorite house plants <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="25" height="25" />.
 You can also check out my [portfolio](https://jtruong97.github.io/) to see what else I have been working on! 
 
 I love to travel to learn about other cultures and try new cuisines. I am a huge foodie and always have a running list of new restaurants to try with my friends and family. To unwind at home, I enjoy binge-watching TV shows, playing cozy games on my Switch, and experimenting with new recipes I find on TikTok.
 
 
-### 🔗 Let's connect!
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> Let's connect! 
   <a href='mailto:jas.truongg@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
   <a href='https://www.linkedin.com/in/jas-truong/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
   <a href='https://discordapp.com/users/700991082774921226'><img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'/></a>
@@ -20,7 +21,7 @@ I love to travel to learn about other cultures and try new cuisines. I am a huge
 
 <hr></hr>
 
-### 👩🏻‍💻Technologies 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Medium-Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Medium-Light Skin Tone" width="25" height="25" /> Technologies 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,3 +49,13 @@ I love to travel to learn about other cultures and try new cuisines. I am a huge
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+<hr>
+
+### GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Glowing%20Star.webp" alt="Glowing Star" width="25" height="25" />
+
+#### GitHub Streak <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" />
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jtruong97&theme=duskfox" alt="GitHub Streak" /></a>
+</p>
+
