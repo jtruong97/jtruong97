@@ -5,15 +5,19 @@
 <!--
 **jtruong97/jtruong97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I grew up in San Francisco, CA but recently relocated to Sacramento, CA. I have a background in health care working as a medical assistant in primary care, pediatrics, urology, and obstetrics and gynecology. As much as I loved working in healthcare, I realized it wasn't for me. I started my journey as a software developer at App Academy which fostered my growth and interest in web development. 
+I was born and raised in San Francisco and recently relocated to Sacramento, CA. I have a background in health care working as a medical assistant in primary care, pediatrics, urology, and obstetrics and gynecology. As much as I loved working in healthcare, I realized it wasn't for me. I started my journey as a software developer at App Academy which fostered my growth and interest in web development. 
 
 I’m currently working on [Amazonian](https://amazonian-blt9.onrender.com/), a full-stack clone of 'Amazon' featuring my favorite house plants <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="25" height="25" />.
-You can also check out my [portfolio](https://jtruong97.github.io/) to see what else I have been working on! 
 
-I love to travel to learn about other cultures and try new cuisines. I am a huge foodie and always have a running list of new restaurants to try with my friends and family. To unwind at home, I enjoy binge-watching TV shows, playing cozy games on my Switch, and experimenting with new recipes I find on TikTok.
+<img src="https://github.com/jtruong97/jtruong97/assets/103168647/c5b2af51-1006-4a44-ba0b-3da5fd1a2672" alt="computerchickq" height="35">You can also check out my [portfolio](https://jtruong97.github.io/) to see what else I have been working on! 
 
+As a huge foodie, I love exploring restaurants and cuisines across Northern California—feel free to reach out for recommendations! In my downtime, I enjoy binge-watching K-dramas, anime, and various TV shows. If you have any must-watch suggestions, let me know! I have a passion for travel, immersing myself in diverse cultures. Recently, I had the incredible opportunity to explore Korea and Taiwan, where I ate my way through the countries. 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> Let's connect! 
+When I'm at home, I enjoy unwinding by indulging in my favorite pastimes. I love binge-watching TV shows, delving into captivating storylines across various genres. Additionally, I find solace in playing cozy games on my Switch, providing a perfect escape from the everyday hustle. Lastly, I enjoy getting creative in the kitchen, experimenting with new recipes sourced from TikTok.
+<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25"/>
+-->
+
+### <img src="https://github.com/jtruong97/jtruong97/assets/103168647/afc9a2a4-3a63-49fe-ac56-a2936376a447" alt="rainbow-cat" height="25"/> Let's connect! 
   <a href='mailto:jas.truongg@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
   <a href='https://www.linkedin.com/in/jas-truong/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
   <a href='https://discordapp.com/users/700991082774921226'><img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'/></a>
